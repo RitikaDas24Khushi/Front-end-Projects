@@ -1,0 +1,16 @@
+
+body{
+  background-color: pink;
+}
+
+#results{
+  font-size: 30px;
+  margin-left: 90px;
+  margin-top: 20px;
+  color: black;
+}
+button {
+  width: 150px;
+  height: 35px;
+  font-size : 17px;
+}
